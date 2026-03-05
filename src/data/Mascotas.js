@@ -1,0 +1,57 @@
+const mascotas = [
+    {
+        id:1,
+        nombre:"Max",
+        especie:"Perro",
+        raza:"Labrador",
+        edad:3,
+        peso:25,
+        vacunado:true,
+    },
+    {
+        id:2,
+        nombre:"Bella",
+        especie:"Gato",
+        raza:"Siames",
+        edad:2,
+        peso:4,
+        vacunado:true,
+    },
+    {
+        id:3,
+        nombre:"Luna",
+        especie:"Gato",
+        raza:"Persa",
+        edad:1,
+        peso:3,
+        vacunado:false,
+    },
+    {
+        id:4,
+        nombre:"Rocky",
+        especie:"Perro",
+        raza:"Pastor Alemán",
+        edad:5,
+        peso:30,
+        vacunado:true,
+    },
+    {
+        id:5,
+        nombre:"Charlie",
+        especie:"Hamster",
+        raza:"Blanco",
+        edad:1,
+        peso:0.05,
+        vacunado:false,
+    },
+    {
+        id:6,
+        nombre:"Toby",
+        especie:"Perro",
+        raza:"Bulldog",
+        edad:3,
+        peso:25,
+        vacunado:true,
+    }
+]
+export default mascotas;
